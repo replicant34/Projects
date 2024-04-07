@@ -1,0 +1,40 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+it_001,DT-TRA-OAK-R,Dining Table Traditional Oak For 4 people ,Dining Table,Regular,135
+it_002,DT-TRA-OAK-L,Dining Table Traditional Oak For 8-10 people,Dining Table,Large,170
+it_003,DT-MOD-MAP-R,Dining Table Modern Maple For 4 people ,Dining Table,Regular,135
+it_004,DT-MOD-MAP-L,Dining Table Modern Maple For 8-10 people,Dining Table,Large,170
+it_005,DT-CON-CHE-R,Dining Table Contemporary Cherry For 4 people ,Dining Table,Regular,135
+it_006,DT-CON-CHE-L,Dining Table Contemporary Cherry For 8-10 people,Dining Table,Large,170
+it_007,DT-RUS-WAL-R,Dining Table Rustic Walnut For 4 people ,Dining Table,Regular,135
+it_008,DT-RUS-WAL-L,Dining Table Rustic Walnut For 8-10 people,Dining Table,Large,170
+it_009,DT-IND-MAH-R,Dining Table Industrial Mahogany For 4 people ,Dining Table,Regular,135
+it_010,DT-IND-MAH-L,Dining Table Industrial Mahogany For 8-10 people,Dining Table,Large,170
+it_011,DT-ART-PIN-R,Dining Table Art Deco Pine For 4 people ,Dining Table,Regular,135
+it_012,DT-ART-PIN-L,Dining Table Art Deco Pine For 8-10 people,Dining Table,Large,170
+it_013,BED-TRA-OAK-S,Bed Traditional Oak Single,Bed,Single,60
+it_014,BED-TRA-OAK-D,Bed Traditional Oak Double,Bed,Double,105
+it_015,BED-RUS-WAL-S,Bed Rustic Walnut Single,Bed,Single,70
+it_016,BED-RUS-WAL-D,Bed Rustic Walnut Double,Bed,Double,120
+it_017,CO-ART-S,Couch Art Deco Small,Couch,Small,75
+it_018,CO-ART-R,Couch Art Deco Regular,Couch,Regular,140
+it_019,CO-ART-L,Couch Art Deco Large,Couch,Large,210
+it_020,CO-TRA-S,Couch Traditional Small,Couch,Small,75
+it_021,CO-TRA-R,Couch Traditional Regular,Couch,Regular,140
+it_022,CO-TRA-L,Couch Traditional Large,Couch,Large,210
+it_023,WA-OAK-S,Wardrobe Oak Single,Wardrobe,Single,90
+it_024,WA-OAK-R,Wardrobe Oak Double,Wardrobe,Double,145
+it_025,WA-OAK-L,Wardrobe Oak Large,Wardrobe,Large,180
+it_026,WA-PIN-S,Wardrobe Pine Single,Wardrobe,Single,90
+it_027,WA-PIN-R,Wardrobe Pine Double,Wardrobe,Double,145
+it_028,WA-PIN-L,Wardrobe Pine Large,Wardrobe,Large,180
+it_029,CH-LL,Chair Luna Luxe,Chair ,Regular,35
+it_030,CH-UE,Chair Urban Elegance,Chair ,Regular,35
+it_031,CH-ZC,Chair Zenith Comfort,Chair ,Regular,35
+it_032,CH-RT,Chair Regal Throne,Chair ,Regular,35
+it_033,CH-BC,Chair Boho Chic,Chair ,Regular,35
+it_034,CH-ME,Chair Metro Edge,Chair ,Regular,35
+it_035,CH-CB,Chair Coastal Breeze,Chair ,Regular,35
+it_036,CH-NS,Chair Nordic Serenity,Chair ,Regular,35
+it_037,CH-VC,Chair Vintage Charm,Chair ,Regular,35
+it_038,CH-CC,Chair Contemporary Classic,Chair ,Regular,35
+it_039,CH-RR,Chair Retro Revival,Chair ,Regular,35
