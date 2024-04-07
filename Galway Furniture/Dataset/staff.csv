@@ -1,0 +1,17 @@
+staff_id,first_name,last_name,position,hourly_rate
+st0001,Brid,Doyle,Supervisor ,21.5
+st0002,Cathal,Kennedy,Carpenter,17.25
+st0003,Caitriona,Quinn,Carpenter,17.25
+st0004,Orla,Byrne,Fitter,17.25
+st0005,Donal,Doherty,Supervisor ,21.5
+st0006,Ciara,Martin,Carpenter,17.25
+st0007,Dara,Thompson,Carpenter,17.25
+st0008,Deirdre,Ward,Fitter,17.25
+st0009,Ronan,Connolly,Loader,15.5
+st0010,Muireann,Murray,Loader,15.5
+st0011,Lorcan,Duffy,Assistant ,12.5
+st0012,Ailbhe,Wilson,Assistant ,12.5
+st0013,Ruairi,Robinson,Delivery rider,16.5
+st0014,Ailis,Collins,Delivery rider,16.5
+st0015,Eoghan,Hall,Delivery rider,16.5
+st0016,Maire,Hughes,Delivery rider,16.5
