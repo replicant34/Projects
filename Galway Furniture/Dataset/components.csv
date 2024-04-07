@@ -1,0 +1,48 @@
+comp_id,comp_name,comp_size,comp_meas,comp_price
+COMP001,Pine,1,Cubic meter,160
+COMP002,Mahogany,1,Cubic meter,275
+COMP003,Oak,1,Cubic meter,185
+COMP004,Maple,1,Cubic meter,190
+COMP005,Cherry,1,Cubic meter,220
+COMP006,Walnut,1,Cubic meter,256
+COMP007,Nails Small,1,Kilogram ,9.5
+COMP008,Nails Big,1,Kilogram ,8.8
+COMP009,Screw Big,1,Kilogram ,10.5
+COMP010,Screw Small,1,Kilogram ,11
+COMP011,Glue PVA,1,Litre ,3.2
+COMP012,Glue Acrylic ,1,Litre ,4.1
+COMP013,Oil Linseed,1,Litre ,12.6
+COMP014,Oil Tung ,1,Litre ,13.4
+COMP015,Oil Danish,1,Litre ,7.6
+COMP016,Oil Teak,1,Litre ,14.1
+COMP017,Oil Walnut ,1,Litre ,11.3
+COMP018,Oil Mineral,1,Litre ,6.2
+COMP019,Oil Cedarwood,1,Litre ,7.3
+COMP020,Oil Boiled Linseed ,1,Litre ,15.4
+COMP021,Oil Polymerised Tung ,1,Litre ,13.9
+COMP022,Carnauba Wax Blend,1,Litre ,5.25
+COMP023,Dye Aniline ,1,Litre ,13.72
+COMP024,Dye Water-Based ,1,Litre ,17.98
+COMP025,Dye Alcohol-Based ,1,Litre ,15.45
+COMP026,Dye Powdered,1,Litre ,15.45
+COMP027,Gel Stain,1,Litre ,15.45
+COMP028,Dye Oil-Based ,1,Litre ,15.45
+COMP029,Dye EbonizCOMP,1,Litre ,15.45
+COMP030,Dye Natural ,1,Litre ,15.45
+COMP031,Dye Naphthol,1,Litre ,15.45
+COMP032,Veneer Dye Stains,1,Litre ,15.45
+COMP033,Mettal element 1,1,unit,0.96
+COMP034,Mettal element 2,1,unit,0.41
+COMP035,Mettal element 3,1,unit,0.96
+COMP036,Mettal element 4,1,unit,0.41
+COMP037,Mettal element 5,1,unit,0.96
+COMP038,Mettal element 6,1,unit,0.41
+COMP039,Handle 1,1,unit,0.96
+COMP040,Handle 2,1,unit,0.41
+COMP041,Fabric Cotton,1,Square meter ,2.4
+COMP042,Fabric Leather,1,Square meter ,4.3
+COMP043,Fabric Polyester,1,Square meter ,2.1
+COMP044,Fabric Microfiber,1,Square meter ,3.6
+COMP045,Fabric Velvet,1,Square meter ,1.9
+COMP046,Synthetic Blends,1,Square meter ,1.3
+COMP047,Chenille,1,Square meter ,1.7
