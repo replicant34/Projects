@@ -1,0 +1,35 @@
+Key,Definition
+0,Student
+1,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers"
+2,Specialists in Intellectual and Scientific Activities
+3,Intermediate Level Technicians and Professions
+4,Administrative staff
+5,"Personal Services, Security and Safety Workers and Sellers"
+6,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+7,"Skilled Workers in Industry, Construction and Craftsmen"
+8,Installation and Machine Operators and Assembly Workers
+9,Unskilled Workers
+10,Armed Forces Professions
+90,Other Situation
+99,(blank)
+122,Health professionals
+123,teachers
+125,Specialists in information and communication technologies (ICT)
+131,Intermediate level science and engineering technicians and professions
+132,"Technicians and professionals, of intermediate level of health"
+134,"Intermediate level technicians from legal, social, sports, cultural and similar services"
+141,"Office workers, secretaries in general and data processing operators"
+143,"Data, accounting, statistical, financial services and registry-related operators"
+144,Other administrative support staff
+151,personal service workers
+152,sellers
+153,Personal care workers and the like
+171,"Skilled construction workers and the like, except electricians"
+173,"Skilled workers in printing, precision instrument manufacturing, jewelers, artisans and the like"
+175,"Workers in food processing, woodworking, clothing and other industries and crafts"
+191,cleaning workers
+192,"Unskilled workers in agriculture, animal production, fisheries and forestry"
+193,"Unskilled workers in extractive industry, construction, manufacturing and transport"
+194,Meal preparation assistants
+404,Unknown
+404,Unknown
